@@ -1,0 +1,25 @@
+Firewall Log Analysis Report
+
+Top Source/Destination IP Addresses:
+192.168.1.105: 4 occurrences
+93.184.216.34: 1 occurrences
+198.51.100.23: 1 occurrences
+8.8.8.8: 1 occurrences
+8.8.4.4: 1 occurrences
+192.168.1.107: 1 occurrences
+192.168.1.200: 1 occurrences
+192.168.1.109: 1 occurrences
+192.168.1.210: 1 occurrences
+192.168.1.111: 1 occurrences
+
+Top Source/Destination Ports:
+Port -: 2 occurrences
+Port 53: 2 occurrences
+Port 44345: 1 occurrences
+Port 80: 1 occurrences
+Port 44346: 1 occurrences
+Port 443: 1 occurrences
+Port 44349: 1 occurrences
+Port 445: 1 occurrences
+Port 44351: 1 occurrences
+Port 22: 1 occurrences
