@@ -8,7 +8,7 @@ This script is designed to analyze firewall logs, focusing on entries with the "
 
 1. **Clone the Repository:**
    in bash -
-   git clone https://github.com/your-username/firewall-log-analysis.git
+   git clone https://github.com/v0lderm0rt/log_analyzer_in_python.git
    cd firewall-log-analysis
 2. **Run the script:**
    use the following command to run the script--
